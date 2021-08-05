@@ -12,7 +12,8 @@ citation: ABC (2021). (Version draft) [Data set]. DANDI archive. https://dandiar
 description: ABC
 id: DANDI:000031/draft
 identifier: DANDI:000031
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000031/versions/draft/assets/
 name: ABC
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
